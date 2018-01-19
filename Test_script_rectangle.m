@@ -11,4 +11,7 @@ R2 = 4;
 
 [Ixx_2, Iyy_2] = calculateSecMoaAnnulus(r1, R2);
 
-% Please add circle here
+% Calculate second moment of inertia for a semi circle
+r = 1.45;
+
+[Ixx_3, Iyy_3] = calculateSecMoaSemiCircle(r);
