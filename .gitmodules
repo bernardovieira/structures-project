@@ -1,0 +1,3 @@
+[submodule "secMoaLib"]
+	path = secMoaLib
+	url = https://github.com/philchiu-envision/secMoaLib
